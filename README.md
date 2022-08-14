@@ -1,7 +1,7 @@
-# [about](https://s9a.github.io/about) [s9a](https://github.com/s9a)
+# [about](https://p9e.github.io/about) [p9e](https://github.com/p9e)
 
-* Colorful code creators.
-* Inclusion influencers.
+* Universal imagineers.
+* Emotional fireflies.
 * Open web believers.
-* Extrasensory HTML.
-* [CSS synesthesia.](https://s9a.github.io)
+* Grand piano HTML. 
+* <samp>perspective</samp>
